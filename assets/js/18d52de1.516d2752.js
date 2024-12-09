@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcontacdidoc=self.webpackChunkcontacdidoc||[]).push([[3717],{2851:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/doc-contaCDI/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

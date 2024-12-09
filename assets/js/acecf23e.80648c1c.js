@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcontacdidoc=self.webpackChunkcontacdidoc||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/doc-contaCDI/blog","blogTitle":"Blog","authorsListPath":"/doc-contaCDI/blog/authors"}')}}]);
